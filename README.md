@@ -1,4 +1,4 @@
-### Hey 👋 I am Enes
+Hey 👋 I am Enes
 
 I am a full-stack software engineer with experience in web/mobile applications, back-end systems using a variety of technologies.
 
